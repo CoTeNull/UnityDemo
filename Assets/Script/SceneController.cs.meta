@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2db6e1da95281e46b1e6b3d1e5d5e18
+timeCreated: 1525921271
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {instanceID: 0}
+  - hpboxPrefab: {instanceID: 0}
+  - wanderingAI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
